@@ -62,7 +62,7 @@ export const User = mongoose.model('User', contactSchema);
 ```
 
 ## 🚀 Deployment
-- Deploy on **Render**, **Vercel**, or **Railway**.
+- Deploy on **Render**, **Vercel**.
 - Use **MongoDB Atlas** for cloud database storage.
 
 ## 🎯 Future Improvements
